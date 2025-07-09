@@ -1,6 +1,6 @@
 # Power Reviews - Google Tag Manager Serverside template
 
-This GTM tag template allows you to track purchase events for PowerReviews.
+This GTM tag template allows you to track purchase events for PowerReviews. It is used to send order data to PowerReviews.
 
 * Timestamp is required to be set to Unix Timestamp format
 * The GA4 items objects is used as a default configuration to populate the product items for PowerReviews
